@@ -1,0 +1,10 @@
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/Application.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/config/AppConfig.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/controller/FacturaController.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/model/Factura.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/model/Impuesto.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/repository/ImpuestoRepository.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/repository/JsonImpuestoRepository.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/repository/PropertiesImpuestoRepository.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/service/FacturaService.java
+/Users/gabrielo/Documents/facturasJava/src/main/java/com/facturas/service/ImpuestoService.java
