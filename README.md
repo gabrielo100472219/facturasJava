@@ -1,10 +1,4 @@
 # facturasJava
-TEST
-test2
-test3
-test4
-test5
-678
 
 * Inyección de dependencias con interfaces
 * Anotaciones `@Service`, `@Repository`, `@Component`
