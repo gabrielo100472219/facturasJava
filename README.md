@@ -67,15 +67,3 @@ com.facturas
 | `@Value`                     | Leer datos del `.properties`                      |
 | `@RequestScope`              | Controlar el ciclo de vida de una factura         |
 | `Cloneable` e inmutabilidad  | Proteger el modelo `Factura` e `Impuesto`         |
-
----
-
-## 💡 ¿Qué te puedo entregar?
-
-Si quieres, puedo prepararte ahora:
-
-1. 📦 Un **proyecto base** con estructura vacía y código esqueleto para que lo rellenes tú
-2. 🧪 Un conjunto de **requisitos y pruebas funcionales**
-3. ✍️ O incluso una guía paso a paso tipo “reto” para que lo desarrolles por fases
-
-¿Te gustaría que lo monte en ese formato y lo puedas ir completando tú activamente?
