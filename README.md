@@ -6,7 +6,7 @@
 * Lectura desde `.properties` y JSON
 * Gestión de beans con `@Configuration`, `@Bean`, `@Primary`, `@Qualifier`
 
----
+--- TEST
 
 ## 🛠 Proyecto: **Gestor de Impuestos y Facturas**
 
