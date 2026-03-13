@@ -1,6 +1,6 @@
 # facturasJava
 
-* Inyección de dependencias con interfaces
+* Inyección de dependencias con interfaces test
 * Anotaciones `@Service`, `@Repository`, `@Component`
 * Scopes como `@RequestScope` o `@SessionScope`
 * Lectura desde `.properties` y JSON
